@@ -1,5 +1,5 @@
 <h1>URl Minion® : A Lightweight URL Shortener using Node JS </h1>
-![Image of URl](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/views/URL_shortener.JPG)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <h2>Instructions</h4>
 <h5>1. Install Node JS <a href="https://nodejs.org/en/download/">here</a> </h5>
 <h5>2. Install a compatible IDE like <a href="https://code.visualstudio.com/download">VS Code</a> or anything else of your <a href="https://www.bacancytechnology.com/blog/top-ides-for-nodejs-application-development">preference</a></h5>
