@@ -1,7 +1,7 @@
 <h1>URl Minion® : A Lightweight URL Shortener using Node JS </h1>
 <h3> A project to demonstrate the use of Node JS,Express JS,MongoDB,Mongoose and EJS to develop a URL Shortner in a local server</h3>
 
-
+![URL](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/URL_shortener.JPG)
 
 <h2>Instructions</h4>
 <h5>1. Install Node JS <a href="https://nodejs.org/en/download/">here</a> </h5>
