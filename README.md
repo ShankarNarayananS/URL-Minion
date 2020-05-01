@@ -1,4 +1,4 @@
-<h1>URl Minion® : A Lightweight URL Shortener using Node JS </h1>
+<h1>URl Minion® : A Lightweight URL Shortener using Node JS and MongoDB </h1>
 
 ![URL](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/URL_shortener.JPG)
 
