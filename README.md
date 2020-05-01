@@ -2,7 +2,7 @@
 
 ![URL](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/URL_shortener.JPG)
 
-<h3> A project to demonstrate the use of Node JS,Express JS,MongoDB,Mongoose and EJS to develop a URL Shortner in a local server</h3>
+<h3> A project to demonstrate the use of Node JS,Express JS,MongoDB,Mongoose and EJS to develop a URL Shortner that can be deployed in any server with ease</h3>
 
 
 
