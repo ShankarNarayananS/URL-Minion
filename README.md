@@ -2,11 +2,12 @@
 
 ![URL](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/URL_shortener.JPG)
 
-<h3> A project to demonstrate the use of Node JS,Express JS,MongoDB,Mongoose and EJS to develop a URL Shortner that can be deployed in any server with ease</h3>
+<h2> Who should use it? </h2>
 
+<h4> Anybody who wants to build a URL shortener for use in their server or for just testing how a URL server works can make use of this repository </h4>
 
+<h2> How should I go about it ? </h2>
 
-<h2>Instructions</h4>
 <h5>1. Install Node JS <a href="https://nodejs.org/en/download/">here</a> </h5>
 <h5>2. Install a compatible IDE like <a href="https://code.visualstudio.com/download">VS Code</a> or anything else of your <a href="https://www.bacancytechnology.com/blog/top-ides-for-nodejs-application-development">preference</a></h5>
 <h5>3. Open a CLI in this downloaded folder </h5>
@@ -21,3 +22,6 @@
 <h5>5. Make the necessary changes in the code to reflect your settings in MongoDB using this <a href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">guide</a></h5>
 <h5>6. Run the server using this command</h5>
 <h6>nodemon index.js</h6>
+
+<h2> I want to make some changes to it, can I do so? </h2>
+<h4> Absolutely. Just fork this repository and proceed with your version of it. </h4>
