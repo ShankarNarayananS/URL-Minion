@@ -4,7 +4,7 @@
 
 <h2> Who should use it? </h2>
 
-<h4> Anybody who wants to build a URL shortener for use in their server or for just testing how a URL server works can make use of this repository </h4>
+<h4> Anybody who wants to build a URL shortener for use in their server or someone curious to know how a URL server works can make use of this repository </h4>
 
 <h2> How should I go about it ? </h2>
 
